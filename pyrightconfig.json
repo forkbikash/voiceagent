@@ -1,0 +1,6 @@
+{
+  "include": ["*.py", "config", "pkg", "services"],
+  "extraPaths": ["."],
+  "pythonVersion": "3.12",
+  "typeCheckingMode": "basic"
+}
